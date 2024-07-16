@@ -3,7 +3,7 @@ Eu sou **Max Nycolas** (ele/dele) seu anfitrião, sinta-se a vontade mas primeir
 
 ![cafe?](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45ye-otwaIZgu5wJUI5ekA8guuHbo6zZ7CA&s)
 
-### Sobre mim
+### 🤓 Sobre mim
 
 -  Me considero versátil e adaptável com habilidades em operações administrativas, Business Intelligence e administração de sistemas
 
@@ -17,7 +17,7 @@ Eu sou **Max Nycolas** (ele/dele) seu anfitrião, sinta-se a vontade mas primeir
 - **Bacharelado em Engenharia Petrolífera** - Centro Universitário Tiradentes (2015 - 2019)
 
 
-### 💹 Certificações
+### 🥇 Certificações
 - Carreira em Inteligência Artificial (EXAME)
 - Lógica de Programação (DIO)
 - Power BI (Microsoft)
@@ -32,7 +32,7 @@ Eu sou **Max Nycolas** (ele/dele) seu anfitrião, sinta-se a vontade mas primeir
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=42SternEric&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-### Linguagens
+### 📒 Linguagens
 - **Português** (Nativo)
 - **Inglês** (Professional Working Proficiency)
 
