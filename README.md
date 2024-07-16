@@ -1,4 +1,7 @@
 # Bem vindo colega 🥳
+
+#### (If you didn't understand anything here, below is in English.)
+
 Eu sou **Max Nycolas** (ele/dele) seu anfitrião, sinta-se a vontade mas primeiro:
 
 ![cafe?](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45ye-otwaIZgu5wJUI5ekA8guuHbo6zZ7CA&s)
@@ -41,7 +44,7 @@ Eu sou **Max Nycolas** (ele/dele) seu anfitrião, sinta-se a vontade mas primeir
 # Welcome, colleague 🥳
 I am **Max Nycolas** (he/him), your host. Feel free to make yourself at home, but first:
 
-![Coffee?](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45ye-otwaIZgu5wJUI5ekA8guuHbo6zZ7CA&s)
+![Coffee?](https://media.istockphoto.com/id/1473703299/vector/meme-flork-holding-a-mug-on-a-beige-background.jpg?s=612x612&w=0&k=20&c=qAEUAQYiJw2J5LXEBe9oZ-iuHhcTLSntWH7E5opqVr4=)
 
 ### 🤓 About Me
 
@@ -75,3 +78,5 @@ I am **Max Nycolas** (he/him), your host. Feel free to make yourself at home, bu
 - **English** (Professional Working Proficiency)
 
 ![Issoetudo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-XzREMFWVeKpczuc6g-js8HgBsns4macRw&s)
+
+
