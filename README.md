@@ -36,9 +36,7 @@ Eu sou **Max Nycolas** (ele/dele) seu anfitrião, sinta-se a vontade mas primeir
 - **Português** (Nativo)
 - **Inglês** (Professional Working Proficiency)
 
-![Issoetudo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-XzREMFWVeKpczuc6g-js8HgBsns4macRw&s)
-
-# English 🦅
+# _English 🦅_
 
 # Welcome, colleague 🥳
 I am **Max Nycolas** (he/him), your host. Feel free to make yourself at home, but first:
@@ -75,10 +73,5 @@ I am **Max Nycolas** (he/him), your host. Feel free to make yourself at home, bu
 ### 📒 Languages
 - **Portuguese** (Native)
 - **English** (Professional Working Proficiency)
-```
 
-
-<!---
-MaxNycolas/MaxNycolas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Issoetudo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-XzREMFWVeKpczuc6g-js8HgBsns4macRw&s)
